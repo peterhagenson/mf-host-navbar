@@ -1,0 +1,8 @@
+.navbar {
+    height: 100%;
+    width: 75px;
+    background-color: #111;
+    overflow-x: hidden;
+    /* padding-top: 20px; */
+    color: white;
+  }
